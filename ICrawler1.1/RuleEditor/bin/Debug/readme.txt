@@ -1,0 +1,1 @@
+Open the zip file - sabah.com.tr to the directory of sabah.com.tr
