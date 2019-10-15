@@ -10,7 +10,7 @@ iCrawler is an open source project that has three different features:
 # Publications
 <b>An effective and efficient web content extractor for optimizing the crawling process.</b> Uzun, E.; Güner, E., S.; Kılıçaslan, Y.; Yerlikaya, T.; and Agun, H., V. Software - Practice and Experience, 44(10): 1181-1199. 2014. 
 
-<a href="https://www.e-adys.com/yayinlar/" target="_blank">Click for bibtex, downloads, all publications...</a>
+<a href="https://erdincuzun.com/yayinlar/" target="_blank">Click for bibtex, downloads, all publications...</a>
 
 # Licence
 Copyright (c) 2013 Erdinç Uzun
